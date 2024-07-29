@@ -1,0 +1,20 @@
+
+public class Punto1 {
+
+	public static void main(String[]arg) {
+		
+		int num1 = 20;
+		
+		double num2 = 2.2;
+		
+		char g='a';
+		
+		
+		System.out.println("Su total de notas son: "+num1+" el promedio de ellas es: "+num2+" asi que pertenece al grupo: "+g);
+	
+		
+		
+		
+	}
+	
+}

@@ -1,0 +1,20 @@
+
+public class Punto1 {
+
+	public static void main(String[]arg) {
+	 
+		int num1 = 20;
+		
+		char g='a';
+		
+		
+		System.out.println("El total de notas que tiene es: "+n
+		
+		
+		
+		
+		double num2 = 2.2;
+		
+	}
+	
+}

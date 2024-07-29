@@ -1,0 +1,23 @@
+
+public class Punto3 {
+
+	
+	
+	public static void main(String[]args) {
+		
+		int num1=25;
+		
+		int num2=50;
+		
+		int resultado=num1*num2;
+		
+		if(resultado>1000) {
+			System.out.println("Su numero es mayor a mil");
+		}else {
+			System.out.println("Su numero es menor a mil");
+		}
+				
+		
+		
+	}
+}
